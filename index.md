@@ -4,16 +4,24 @@
 
 ### 👨🏻‍💻 work experience
 
-- __NoirLab__ - Software Engineer 🗓 _Oct 2020 to Present_
+- __NoirLab__
+
+  📇 Software Engineer 🗓 _Oct 2020 to Present_ 📍La Serena, Chile
   - Schedule:
   - SCORPIO: 
   - Dome Seeing Monitor: 
   -   
-- __Entel__ - AI Engineer 🗓 _Dec 2019 to Sep 2020_
+- __Entel__
+
+  📇 AI Engineer 🗓 _Dec 2019 to Sep 2020_ 📍Santiago, Chile
   - LITO Chatbot:
   - MIRA Face recognition:   
-- __Walmart__ - Data Engineer Intern 🗓 _Summer 2018_
-- __IBM__ - Software Engineer Intern 🗓 _Summer 2019_
+- __Walmart__ 
+  
+  📇 Data Engineer Intern 🗓 _Summer 2018_ 📍Santiago, Chile
+- __IBM__ 
+  
+  📇 Software Engineer Intern 🗓 _Summer 2019_ 📍Santiago, Chile
 
 
 ### 👤 coding profiles
