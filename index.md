@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+## Welcome 
 
-You can use the [editor on GitHub](https://github.com/stroncod/stroncod.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 👨🏻‍💻 work experience
 
-### Markdown
+- __NoirLab__ - Software Engineer 🗓 _Oct 2020 to Present_
+  - Schedule:
+  - SCORPIO: 
+  - Dome Seeing Monitor: 
+  -   
+- __Entel__ - AI Engineer 🗓 _Dec 2019 to Sep 2020_
+  - LITO Chatbot:
+  - MIRA Face recognition:   
+- __Walmart__ - Data Engineer Intern 🗓 _Summer 2018_
+- __IBM__ - Software Engineer Intern 🗓 _Summer 2019_
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### 👤 coding profiles
 
-# Header 1
-## Header 2
-### Header 3
+- [Stackoverflow](https://stackoverflow.com/users/3659106/stroncod)
+- [HackerRank](https://www.hackerrank.com/stroncod)
 
-- Bulleted
-- List
+### 🎓 education
+- Msc in Computer Science at Universidad Andres Bello
+- Bs in Computer Science at Universidad Andres Bello
 
-1. Numbered
-2. List
+### 🧪 research
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### 👷🏻 personal projects 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+- Perrillo 
 
-### Jekyll Themes
+### 👩🏻‍🏫 courses
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stroncod/stroncod.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+| Foundations of Functional Programming in Scala| fp-tower | 100% |
+|-----------------------------------------------|----------|------|
+|                                               |          |      |
+|                                               |          |      |
 
-### Support or Contact
+### 📕 readings 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+| Reinforcement Learning: An Introduction | Richard S. Sutton and Andrew G. Barto | 30% |
+|-----------------------------------------|---------------------------------------|-----|
+|                                         |                                       |     |
+|                                         |                                       |     |
+|                                         |                                       |     |
+
+
+
+
+
+
