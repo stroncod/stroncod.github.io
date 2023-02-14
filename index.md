@@ -2,15 +2,35 @@
 
 [resume]()
 
+### 🧰 Toolbox
+> "A programming language is a tool that has profound influence on our thinking habits.”
+> 
+— Edsger W. Dijkstra
+
+🛠 Multipurpose: Python
+
+🛠 ML: Pytorch (with Python)
+
+🛠 Web BackEnd: FastAPI (with Python)
+
+🛠 Web FrontEnd: React (with Typescript)
+
+🛠 Functional: Scala
+
+🛠 Low Level: Rust, C++
+
+☁️ Cloud: AWS
+
+
 ### 👨🏻‍💻 work experience
 
 - __NoirLab__
 
   📇 Software Engineer 🗓 _Oct 2020 to Present_ 📍La Serena, Chile
-  - Schedule:
-  - SCORPIO: 
-  - Dome Seeing Monitor: 
-  -   
+  - Schedule: An Automatic Observatory Scheduler for Gemini International Observatory.
+    Wrote on Python. 
+    
+  - Dome Seeing Monitor: An interface to handle a Vimba Camera Laser and EPICS control records. Wrote on Python.
 - __Entel__
 
   📇 AI Engineer 🗓 _Dec 2019 to Sep 2020_ 📍Santiago, Chile
@@ -38,22 +58,6 @@
 
 ### 👷🏻 personal projects 
 
-- Perrillo 
-
-### 👩🏻‍🏫 courses
-
-| Foundations of Functional Programming in Scala| fp-tower | 100% |
-|-----------------------------------------------|----------|------|
-|                                               |          |      |
-|                                               |          |      |
-
-### 📕 readings 
-
-| Reinforcement Learning: An Introduction | Richard S. Sutton and Andrew G. Barto | 30% |
-|-----------------------------------------|---------------------------------------|-----|
-|                                         |                                       |     |
-|                                         |                                       |     |
-|                                         |                                       |     |
 
 
 
