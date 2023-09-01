@@ -5,6 +5,7 @@
 Hi, my name is Sergio. I'm a software engineer from Chile. 
 
 • Languages: Python, Scala, Javascript, Typescript, C++, SQL
+
 • Technologies: AWS, React, FastAPI, GraphQL, Docker, Tensorflow
 
 
