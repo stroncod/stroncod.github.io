@@ -2,24 +2,10 @@
 
 [resume]()
 
-### 🧰 Toolbox
-> "A programming language is a tool that has profound influence on our thinking habits.”
-> 
-— Edsger W. Dijkstra
+Hi, my name is Sergio. I'm a software engineer from Chile. 
 
-🛠 Multipurpose: Python
-
-🛠 ML: Pytorch (with Python)
-
-🛠 Web BackEnd: FastAPI (with Python)
-
-🛠 Web FrontEnd: React (with Typescript)
-
-🛠 Functional: Scala
-
-🛠 Low Level: Rust, C++
-
-☁️ Cloud: AWS
+• Languages: Python, Scala, Javascript, Typescript, C++, SQL
+• Technologies: AWS, React, FastAPI, GraphQL, Docker, Tensorflow
 
 
 ### 👨🏻‍💻 work experience
@@ -28,14 +14,13 @@
 
   📇 Software Engineer 🗓 _Oct 2020 to Present_ 📍La Serena, Chile
   - Schedule: An Automatic Observatory Scheduler for Gemini International Observatory.
-    Wrote on Python. 
     
-  - Dome Seeing Monitor: An interface to handle a Vimba Camera Laser and EPICS control records. Wrote on Python.
+  - Dome Seeing Monitor: An interface to handle a Vimba Camera Laser and EPICS control records.
 - __Entel__
 
   📇 AI Engineer 🗓 _Dec 2019 to Sep 2020_ 📍Santiago, Chile
-  - LITO Chatbot:
-  - MIRA Face recognition:   
+  - LITO: A IBM Watson Chatbot for Social Network channels manegement
+  - MIRA: Face recognition service for security and queue managment 
 - __Walmart__ 
   
   📇 Data Engineer Intern 🗓 _Summer 2018_ 📍Santiago, Chile
